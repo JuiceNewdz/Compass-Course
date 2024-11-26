@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915191735436",
+    "project_id": "compasscourse-6e3af",
+    "storage_bucket": "compasscourse-6e3af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915191735436:android:77f96353c5b084ee1b07a9",
+        "android_client_info": {
+          "package_name": "com.examination.compasscourse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC95t8D6r9wyYaUsV4gqaE8aVwlh3W2kMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
